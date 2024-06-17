@@ -1,3 +1,3 @@
 # PsyAssignments
 
-Work from MSc
+MSc Psychology
